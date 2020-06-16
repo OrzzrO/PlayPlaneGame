@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml
+		INJECTED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml
+		INJECTED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml
+		INJECTED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:7:5-47
+	android:targetSdkVersion
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:7:15-44
+		INJECTED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml
+		INJECTED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:7:5-47
+		INJECTED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:9:5-45:19
+	android:label
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:11:9-46
+	android:allowBackup
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:13:9-40
+activity#activitys.MainActivity
+ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:18:13-45
+	android:launchMode
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:16:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:21:27-74
+activity#activitys.GameActivity
+ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:25:9-28:20
+	android:label
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:27:13-45
+	android:launchMode
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:26:13-44
+	android:name
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:25:19-56
+activity#activitys.SetActivity
+ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:30:9-33:20
+	android:label
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:32:13-45
+	android:launchMode
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:30:19-55
+activity#activitys.IntroActivity
+ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:35:9-38:20
+	android:label
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:37:13-45
+	android:launchMode
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:35:19-57
+activity#activitys.InfActivity
+ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:40:9-43:20
+	android:label
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:42:13-45
+	android:launchMode
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from D:\hongsi\work_space\Android_space\111\Convert\app\src\main\AndroidManifest.xml:40:19-55
